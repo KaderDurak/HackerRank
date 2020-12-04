@@ -1,4 +1,4 @@
-CITY names from STATION that either do not start with vowels or do not end with vowels.
+/*CITY names from STATION that either do not start with vowels or do not end with vowels.*/
 
 select distinct city 
 from station 
