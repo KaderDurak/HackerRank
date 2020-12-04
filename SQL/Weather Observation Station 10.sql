@@ -1,4 +1,4 @@
-CITY names from STATION that do not end with vowels.
+/*CITY names from STATION that do not end with vowels.*/
 
 SELECT DISTINCT(CITY)
 FROM STATION
